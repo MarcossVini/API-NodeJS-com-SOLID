@@ -1,1 +1,1 @@
-# PokemonProject for the test fulll stack  junior
+# PokemonProject for the test full stack  junior
